@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789493400239,
+      "tag": "0000_burly_pixie",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789543242368,
+      "tag": "0001_petite_thunderbolt_ross",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789652272896,
+      "tag": "0002_tough_blue_marvel",
+      "breakpoints": true
+    }
+  ]
+}
